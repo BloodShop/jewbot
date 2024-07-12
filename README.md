@@ -8,5 +8,5 @@ https://dxclrt.pages.dev
 #### Site
 https://www.dexcelerate.com
 
-####Trading
+#### Trading
 https://app.dexcelerate.com
